@@ -1,5 +1,4 @@
-# WebCRUD
-Sistem Administrasi Data Mahasiswa Universitas Wano
+# Sistem Administrasi Data Mahasiswa Universitas Wano
 Aplikasi ini merupakan aplikasi sederhana untuk memasukkan data mahasiswa di Universitas Wano untuk mempermudah pencarian data mahasiswa. Aplikasi ini berguna dan sangat mudah digunakan dan siapapun dapat mengelola aplikasi ini.
 Cara Membuka Aplikasi
 1. Download ZIP file aplikasi ini
